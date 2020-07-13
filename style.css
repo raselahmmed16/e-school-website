@@ -1,0 +1,116 @@
+/* e-school */
+.e-school {
+    position: absolute;
+    width:118.07px;
+    height:29px;
+    left:292px;
+    top:45px;
+    font-family:'Times New Roman', Times, serif;
+    font-style:normal;
+    font-weight:bold;
+    font-size: 24.8571px;
+    line-height:29px;
+    color:#56548c;
+}
+.ml-auto {
+    margin-left: 900px !important;
+     
+    margin-top: 20px;
+}
+#signin {
+    background-color:#1ce6c1;
+    border:none;
+    border-radius: 20px;
+    color:white;
+}
+/* END OF NAVBAR */
+/* CAROUSEL SECTION */
+#upperhead {
+    color:red;
+    text-align: center;
+    margin-top: 100px;
+}
+
+#Illustration {
+    margin-top: 80px;
+}
+#schedule {
+    color:#3BBE83;
+}
+#heading {
+    text-align: center;
+}
+.button {
+    margin-left: 250px;
+    padding: 8px;
+    border:none;
+    border-radius: 10px;
+    background-color: #1ce6c1;
+}
+#career {
+    text-align: center;
+}
+/* END OF CAROUSEL SECTION */
+/*  TOPIC SECTION */
+.row {
+    margin-top:20px;
+}
+.card {
+    border:none;
+}
+.card-deck {
+    margin-top: 80px;
+}
+.card-hilight {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.card1, .card2 {
+    width:200px;
+    height:200px;
+    padding: 20px 50px;
+    margin:20px 40px;
+    
+}
+.card-text, .card-title {
+    text-align: center;
+}
+/* END OF TOPIC SECTION */
+/* COURSE SECTION */
+.button2 {
+    margin-left: 150px;
+    padding: 8px;
+    border:none;
+    border-radius: 10px;
+    background-color: #1ce6c1;
+}
+/* END OF COURSE SECTION */
+/* TESTIMONIAL SECTION */
+.testimonial {
+    color:#1ce6c1;
+    text-align: center;
+    margin-top: 20px;
+}
+.man-photo {
+    width:50%;
+    height:50%;
+    position: relative;
+    left:200px;
+    top:-50px;
+    bottom: 50px;
+}
+/* END OF TESTIMONIAL */
+/* FOOTER SECTION */
+.footer {
+    background-color: beige;
+}
+.million {
+    text-align: center;
+}
+.copyright {
+    text-align: center;
+    margin-top: 82px;
+
+
+} 
+/* END OF FOOTER */
+/* HAPPY CODING */
